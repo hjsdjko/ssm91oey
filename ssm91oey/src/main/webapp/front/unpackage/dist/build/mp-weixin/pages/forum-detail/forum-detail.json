@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#339999",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "猫狗宠物社区发帖详情",
+  "usingComponents": {
+    "user-reply": "/components/forum-reply/forum-reply"
+  }
+}

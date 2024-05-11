@@ -1,0 +1,300 @@
+{
+	"pages": [{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#669999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "登录"
+		}
+	}, {
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#339999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "注册"
+		}
+	}, {
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#339999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "忘记密码"
+		}
+	}, {
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#339999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的"
+		}
+	}, {
+		"path": "pages/user-info/user-info",
+		"style": {
+			"navigationBarBackgroundColor": "#339999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+	, {
+		"path": "pages/shop-recharge/recharge",
+		"style": {
+			"navigationBarTitleText": "用户充值"
+		}
+	}, {
+		"path": "pages/shop-cart/shop-cart",
+		"style": {
+			"navigationBarTitleText": "购物车"
+		}
+	}, {
+		"path": "pages/shop-order-confirm/shop-order-confirm",
+		"style": {
+			"navigationBarTitleText": "订单确认"
+		}
+	}, {
+		"path": "pages/shop-address/shop-address",
+		"style": {
+			"navigationBarTitleText": "我的地址"
+		}
+	}, {
+		"path": "pages/shop-address-detail/shop-address-detail",
+		"style": {
+			"navigationBarTitleText": "地址详情"
+		}
+	}, {
+		"path": "pages/shop-order/shop-order",
+		"style": {
+			"navigationBarTitleText": "我的订单"
+		}
+	}
+			,{
+		"path": "pages/yonghu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#339999",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/yonghu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#339999",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/yonghu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#339999",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/shangpinxinxi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#339999",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/shangpinxinxi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#339999",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/shangpinxinxi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#339999",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/dianzhu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#339999",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/dianzhu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#339999",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/dianzhu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#339999",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/fujinchongwudianhuoyiyuan/list",
+		"style": {
+			"navigationBarBackgroundColor": "#339999",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/fujinchongwudianhuoyiyuan/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#339999",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/fujinchongwudianhuoyiyuan/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#339999",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/maogouchaxun/list",
+		"style": {
+			"navigationBarBackgroundColor": "#339999",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/maogouchaxun/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#339999",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/maogouchaxun/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#339999",
+			"navigationBarTextStyle": "white"
+		}
+	}
+																,{
+		"path": "pages/storeup/list",
+		"style": {
+			"navigationBarBackgroundColor": "#339999",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/storeup/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#339999",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/storeup/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#339999",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/discussshangpinxinxi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#339999",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/discussshangpinxinxi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#339999",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/discussshangpinxinxi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#339999",
+			"navigationBarTextStyle": "white"
+		}
+	}
+			    , {
+		"path": "pages/forum-index/forum-index",
+		"style": {
+			"navigationBarBackgroundColor": "#339999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "首页"
+		}
+	}, {
+		"path": "pages/forum-detail/forum-detail",
+		"style": {
+			"navigationBarBackgroundColor": "#339999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "猫狗宠物社区发帖详情"
+		}
+	}, {
+		"path": "pages/forum-reply/forum-reply",
+		"style": {
+			"navigationBarBackgroundColor": "#24AE8E",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "回复评论"
+		}
+	}, {
+		"path": "pages/forum-list/list",
+		"style": {
+			"navigationBarBackgroundColor": "#339999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发布"
+		}
+	}, {
+		"path": "pages/forum-my/forum-my",
+		"style": {
+			"navigationBarBackgroundColor": "#339999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发布"
+		}
+	}, {
+		"path": "pages/forum-add-or-update/forum-add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#24AE8E",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发布"
+		}
+	}
+			, {
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#339999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "首页"
+		}
+	}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "宠物小程序",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#339999",
+		"selectedColor": "#000000",
+		"borderStyle": "black",
+		"backgroundColor": "#FFFFFF",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			
+												,{
+				"pagePath": "pages/shangpinxinxi/list",
+				"iconPath": "/static/tabs/icon1.png",
+				"selectedIconPath": "/static/tabs/icon1_act.png",
+				"text": "商品信息"
+			}
+												,{
+				"pagePath": "pages/maogouchaxun/list",
+				"iconPath": "/static/tabs/icon2.png",
+				"selectedIconPath": "/static/tabs/icon2_act.png",
+				"text": "猫狗查询"
+			}
+						
+						,{
+			 	"pagePath": "pages/forum-index/forum-index",
+				"iconPath": "static/tabs/type.png",
+			 	"selectedIconPath": "static/tabs/type1.png",
+				"text": "猫狗宠物社区"
+			}
+						
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+}
